@@ -1,0 +1,356 @@
+Uri: https://cdn.addevent.com/libs/atc/1.6.1/atc.min.js
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\libs\atc\1.6.1\atc.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/jquery-particles
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\npm\jquery-particles
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/js-confetti@latest/dist/js-confetti.browser.js
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\npm\js-confetti@latest\dist\js-confetti.browser.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/tsparticles-engine
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\npm\tsparticles-engine
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/tsparticles/tsparticles.bundle.min.js
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\npm\tsparticles\tsparticles.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\ajax\libs\font-awesome\5.15.3\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.eot
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.eot?
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.svg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.ttf
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.woff
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.woff2
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.eot
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.eot?
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.svg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.ttf
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.woff
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.woff2
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.eot
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.eot?
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.svg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.ttf
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.woff
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.woff2
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Russo+One&display=swap
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/russoone/v14/Z9XUDmZRWg6M1LvRYsH-yA.ttf
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\s\russoone\v14\Z9XUDmZRWg6M1LvRYsH-yA.ttf
+Content Type: font/ttf
+
+Uri: https://invitameok.com/img/favicon.png
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\img\favicon.png
+Content Type: image/png
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/CEREMONIA1-IMGce1.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\CEREMONIA1-IMGce1.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/CEREMONIA2-IMGce2.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\CEREMONIA2-IMGce2.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/CEREMONIA3-IMGitt.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\CEREMONIA3-IMGitt.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/DRESSCODE-IMGWhatsApp Image 2023-04-06 at 13.20.37.jpeg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\DRESSCODE-IMGWhatsApp Image 2023-04-06 at 13.20.37.jpeg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/FOTOS619.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\FOTOS619.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/FOTOS620.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\FOTOS620.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/FOTOS621.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\FOTOS621.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/FOTOS622.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\FOTOS622.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/FOTOS623.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\FOTOS623.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/FOTO_FRASE_LARGA7k.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\FOTO_FRASE_LARGA7k.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/HOTEL-IMGhotelG.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\HOTEL-IMGhotelG.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/IMAGEN-FOOTERfrG.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\IMAGEN-FOOTERfrG.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/IMAGEN-HEADERD40917E8-8CE2-4B64-8767-A407EEF04A87.jpeg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\IMAGEN-HEADERD40917E8-8CE2-4B64-8767-A407EEF04A87.jpeg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/IMAGEN-VARIABLESWhatsApp Image 2021-05-14 at 7.01.58 PM1.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\IMAGEN-VARIABLESWhatsApp Image 2021-05-14 at 7.01.58 PM1.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/MUSICAy2mate.com - All You Need Is Love Remastered 2009.mp3
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\MUSICAy2mate.com - All You Need Is Love Remastered 2009.mp3
+Content Type: audio/mpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/PERSONA1-IMGPERSONA1-IMG1p.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\PERSONA1-IMGPERSONA1-IMG1p.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/PERSONA2-IMGPERSONA5-IMGm5.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\PERSONA2-IMGPERSONA5-IMGm5.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/PERSONA3-IMGPERSONA2-IMG2p.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\PERSONA3-IMGPERSONA2-IMG2p.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/PERSONA4-IMGPERSONA4-IMGm4.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\PERSONA4-IMGPERSONA4-IMGm4.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/PERSONA5-IMGPERSONA3-IMGp3.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\PERSONA5-IMGPERSONA3-IMGp3.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/PERSONA6-IMGPERSONA6-IMG6.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\PERSONA6-IMGPERSONA6-IMG6.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/REGALO1-IMGliverpool 2.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\REGALO1-IMGliverpool 2.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/REGALO2-IMGLogotipo-Amazon.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\REGALO2-IMGLogotipo-Amazon.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/admin/imagenes/994/REGALO3-IMGavion2.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\admin\imagenes\994\REGALO3-IMGavion2.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/css/animate.css
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\css\animate.css
+Content Type: text/css
+
+Uri: https://invitameok.com/invitaciones/css/bootstrap.min.css
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://invitameok.com/invitaciones/css/flexslider.css
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\css\flexslider.css
+Content Type: text/css
+
+Uri: https://invitameok.com/invitaciones/css/magnific-popup.css
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://invitameok.com/invitaciones/css/owl.carousel.css
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://invitameok.com/invitaciones/css/preloader.css
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\css\preloader.css
+Content Type: text/css
+
+Uri: https://invitameok.com/invitaciones/css/style.css?IDA34Sb2322
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\css\style.css
+Content Type: text/css
+
+Uri: https://invitameok.com/invitaciones/css/theme6.css
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\css\theme6.css
+Content Type: text/css
+
+Uri: https://invitameok.com/invitaciones/css/trivia/animate.min.css
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\css\trivia\animate.min.css
+Content Type: text/css
+
+Uri: https://invitameok.com/invitaciones/css/trivia/bootstrap.min.css
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\css\trivia\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://invitameok.com/invitaciones/css/trivia/estilos.css
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\css\trivia\estilos.css
+Content Type: text/css
+
+Uri: https://invitameok.com/invitaciones/css/trivia/style.css
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\css\trivia\style.css
+Content Type: text/css
+
+Uri: https://invitameok.com/invitaciones/font-awesome/css/font-awesome.min.css
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://invitameok.com/invitaciones/fonts/theme/46aYWdgz-1oFX11flmyEfS3USBnSvpkopQaUR-2r7iU.ttf
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\fonts\theme\46aYWdgz-1oFX11flmyEfS3USBnSvpkopQaUR-2r7iU.ttf
+Content Type: application/font-sfnt
+
+Uri: https://invitameok.com/invitaciones/fonts/theme/4Mi5RG_9LjQYrTU55GN_L6CWcynf_cDxXwCLxiixG1c.ttf
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\fonts\theme\4Mi5RG_9LjQYrTU55GN_L6CWcynf_cDxXwCLxiixG1c.ttf
+Content Type: application/font-sfnt
+
+Uri: https://invitameok.com/invitaciones/fonts/theme/Vidaloka-Regular.ttf
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\fonts\theme\Vidaloka-Regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://invitameok.com/invitaciones/images/instagram.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\images\instagram.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/images/invitame.svg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\images\invitame.svg
+Content Type: image/svg+xml
+
+Uri: https://invitameok.com/invitaciones/images/musica-on-4.gif
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\images\musica-on-4.gif
+Content Type: image/gif
+
+Uri: https://invitameok.com/invitaciones/images/video.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\images\video.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/invitaciones/js/bootstrap.min.js
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://invitameok.com/invitaciones/js/bootstrap.offcanvas.js
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\js\bootstrap.offcanvas.js
+Content Type: application/javascript
+
+Uri: https://invitameok.com/invitaciones/js/device.js
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\js\device.js
+Content Type: application/javascript
+
+Uri: https://invitameok.com/invitaciones/js/jquery-ui.min.js
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\js\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://invitameok.com/invitaciones/js/jquery.countdown.js
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\js\jquery.countdown.js
+Content Type: application/javascript
+
+Uri: https://invitameok.com/invitaciones/js/jquery.flexslider.js
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\js\jquery.flexslider.js
+Content Type: application/javascript
+
+Uri: https://invitameok.com/invitaciones/js/jquery.smooth-scroll.js
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\js\jquery.smooth-scroll.js
+Content Type: application/javascript
+
+Uri: https://invitameok.com/invitaciones/js/jquery.validate.min.js
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://invitameok.com/invitaciones/js/jquery.vide.js
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\js\jquery.vide.js
+Content Type: application/javascript
+
+Uri: https://invitameok.com/invitaciones/js/jquery.waypoints.min.js
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://invitameok.com/invitaciones/js/modernizr.js
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\js\modernizr.js
+Content Type: application/javascript
+
+Uri: https://invitameok.com/invitaciones/js/pace.min.js
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\js\pace.min.js
+Content Type: application/javascript
+
+Uri: https://invitameok.com/invitaciones/js/script.js
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\js\script.js
+Content Type: application/javascript
+
+Uri: https://invitameok.com/invitaciones/js/sticky.min.js
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\js\sticky.min.js
+Content Type: application/javascript
+
+Uri: https://invitameok.com/invitaciones/js/trivia/jquery-3.6.0.min.js
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\js\trivia\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://invitameok.com/invitaciones/js/trivia/script.js
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitaciones\js\trivia\script.js
+Content Type: application/javascript
+
+Uri: https://invitameok.com/invitame2/store/trivia/994/BACKGROUND_IMG_962.jpg
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\invitame2\store\trivia\994\BACKGROUND_IMG_962.jpg
+Content Type: image/jpeg
+
+Uri: https://invitameok.com/mexicodemocasamiento?n=Ernesto Pérez  y Ma. del Carmen Vera &p=2 Boletos&m=Contamos con su presencia 
+File Name: C:\Users\4DM1N\Desktop\boda page\3\invitameok.com\mexicodemocasamiento.html
+Content Type: text/html
+
